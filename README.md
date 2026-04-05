@@ -1,2 +1,7 @@
-# hangman-game-python
-A console-based Hangman game in Python that includes random word generation, hints, letter tracking, and win/lose conditions.
+# 🎮 Hangman Game
+
+## Description
+A Python-based hangman game with hints, attempts tracking, and interactive gameplay.
+
+## Run
+python hangman.py
